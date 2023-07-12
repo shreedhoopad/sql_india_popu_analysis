@@ -1,1 +1,1 @@
-# sql_india_popu_analysis
+# sql_projects
